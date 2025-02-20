@@ -6,9 +6,9 @@
 
 
 <div style="display: flex; align-items: center;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RhNXc5dmFjYWQybmgwYmduYXlob2Jra3ZoNnExNWR4eXVyN3M0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Geetha Janapareddi" width="500" height="450" style="margin-right: 20px;"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RhNXc5dmFjYWQybmgwYmduYXlob2Jra3ZoNnExNWR4eXVyN3M0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Geetha Janapareddi" width="300" height="225" style="margin-right: 20px;"/>
  
-  <img src="https://github.com/Geetha2503/geetha2503/blob/main/Geetha-GitHub%20images.jpg" alt="Geetha Janapareddi" width="500" height="450" style="border-radius: 50%;"/>
+  <img src="https://github.com/Geetha2503/geetha2503/blob/main/Geetha-GitHub%20images.jpg" alt="Geetha Janapareddi" width="300" height="225" style="border-radius: 50%;"/>
 </div>
 
 
