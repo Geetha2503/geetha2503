@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/geetha-janapareddi-07b660172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jgeetha2503/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/geetha-janapareddi-07b660172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jgeetha2503/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/geetha_janapareddi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/geetha_janapareddi/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/uc6pkood_xldoky7ckuolzma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc6pkood_xldoky7ckuolzma" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/geethajanapareddi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/geethajanapareddi/" height="30" width="40" /></a>
