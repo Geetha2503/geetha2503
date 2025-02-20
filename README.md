@@ -1,11 +1,23 @@
 <h1 align="center">Hi 👋, I'm Geetha Janapareddi</h1>
-<h3 align="center">A passionate Full Stack Software Engineer from United States</h3>
+<h3 align="center">A passionate Full Stack Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geetha2503&label=Profile%20views&color=0e75b6&style=flat" alt="geetha2503" /> </p>
 
-<p align="center">
+ <p align="left">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RhNXc5dmFjYWQybmgwYmduYXlob2Jra3ZoNnExNWR4eXVyN3M0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Geetha Janapareddi" width="400" height="300"/>
+</p>
+
+<p align="right">
   <img src="your-profile-image-url" alt="Geetha Janapareddi" width="200" height="200" style="border-radius: 50%;"/>
 </p>
+
+### About Me:
+👋 Hi there! I'm **Geetha Janapareddi**, a passionate and detail-oriented **Full Stack Software Engineer**. With a strong foundation in both frontend and backend development, I thrive on building scalable, user-friendly applications that solve real-world problems.
+
+🌟 Let's connect and collaborate! Whether it's building innovative solutions or discussing the latest tech trends, I'm always open to new opportunities and ideas.
+
+---
+
 
 - 👨‍💻 All of my projects are available at [Geetha2503](https://github.com/Geetha2503)
 
@@ -99,6 +111,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geetha2503&show_icons=true&locale=en" alt="geetha2503" /></p>
 
-<p align="center">
-  <img src="your-gif-url" alt="Geetha Janapareddi" width="400" height="300"/>
-</p>
+
