@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Geetha Janapareddi</h1>
+<h1 align="center">Hi There...!, I'm Geetha Janapareddi</h1>
 <h3 align="center">A passionate Full Stack Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geetha2503&label=Profile%20views&color=0e75b6&style=flat" alt="geetha2503" /> </p>
 
- <p align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RhNXc5dmFjYWQybmgwYmduYXlob2Jra3ZoNnExNWR4eXVyN3M0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Geetha Janapareddi" width="400" height="300"/>
-</p>
 
-<p align="right">
-  <img src="your-profile-image-url" alt="Geetha Janapareddi" width="200" height="200" style="border-radius: 50%;"/>
-</p>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RhNXc5dmFjYWQybmgwYmduYXlob2Jra3ZoNnExNWR4eXVyN3M0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Geetha Janapareddi" width="500" height="450" style="margin-right: 20px;"/>
+ 
+  <img src="https://github.com/Geetha2503/geetha2503/blob/main/Geetha-GitHub%20images.jpg" alt="Geetha Janapareddi" width="500" height="450" style="border-radius: 50%;"/>
+</div>
+
+
+
 
 ### About Me:
 👋 Hi there! I'm **Geetha Janapareddi**, a passionate and detail-oriented **Full Stack Software Engineer**. With a strong foundation in both frontend and backend development, I thrive on building scalable, user-friendly applications that solve real-world problems.
