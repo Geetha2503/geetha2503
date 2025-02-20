@@ -1,5 +1,5 @@
 <h1 align="center">Hi There...! </h1>
-<h1 align="center">I'm Geetha Janapareddi</h1>
+<h2 align="center">I'm Geetha Janapareddi</h2>
 <h3 align="center">A passionate Full Stack Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geetha2503&label=Profile%20views&color=0e75b6&style=flat" alt="geetha2503" /> </p>
@@ -12,15 +12,6 @@
   <img src="https://github.com/Geetha2503/geetha2503/blob/main/Geetha-GitHub%20images.jpg" alt="Geetha Janapareddi" width="400" height="275" style="border-radius: 50%;"/>
 </div>
 
-
-
-
-### About Me:
-👋 Hi there! I'm **Geetha Janapareddi**, a passionate and detail-oriented **Full Stack Software Engineer**. With a strong foundation in both frontend and backend development, I thrive on building scalable, user-friendly applications that solve real-world problems.
-
-🌟 Let's connect and collaborate! Whether it's building innovative solutions or discussing the latest tech trends, I'm always open to new opportunities and ideas.
-
----
 
 
 - 👨‍💻 All of my projects are available at [Geetha2503](https://github.com/Geetha2503)
@@ -68,7 +59,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
